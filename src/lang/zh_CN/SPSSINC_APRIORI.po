@@ -1,0 +1,84 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SPSSINC_APRIORI.R:115
+msgid "Consequent keyword not currently implemented"
+msgstr ""
+"目前未实现 Consequent 关键字"
+
+#: SPSSINC_APRIORI.R:141
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"需要 R %s 程序包，但未能将其装入。"
+
+#: SPSSINC_APRIORI.R:145
+msgid "Warning: The programfile keyword is no longer supported"
+msgstr ""
+"警告：programfile 关键字不再受支持"
+
+#: SPSSINC_APRIORI.R:151
+msgid "-- Summary of Transactions Data --"
+msgstr ""
+"-- 交易数据摘要 --"
+
+#: SPSSINC_APRIORI.R:162
+msgid "Item Proportions"
+msgstr ""
+"项比例"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Support"
+msgstr ""
+"支持度"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Confidence"
+msgstr ""
+"置信度"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Lift"
+msgstr ""
+"提升度"
+
+#: SPSSINC_APRIORI.R:177
+msgid "Quality of Entire Set of %s Rules"
+msgstr ""
+"整个 %s 规则集的质量"
+
+#: SPSSINC_APRIORI.R:181
+msgid "Quality of Selected Subset of %s Rules Meeting Minimum Lift"
+msgstr ""
+"满足最小提升度的所选 %s 规则子集的质量"
+
+#: SPSSINC_APRIORI.R:189
+msgid "Apriori Rules"
+msgstr ""
+"Apriori 规则"
+
+#: SPSSINC_APRIORI.R:190
+msgid "a. Consequent: %s"
+msgstr ""
+"a. 结果：%s"
+
+
