@@ -1,0 +1,84 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SPSSINC_APRIORI.R:115
+msgid "Consequent keyword not currently implemented"
+msgstr ""
+"결과 키워드가 현재 구현되어 있지 않습니다."
+
+#: SPSSINC_APRIORI.R:141
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s 패키지가 필요하지만 로드할 수 없습니다."
+
+#: SPSSINC_APRIORI.R:145
+msgid "Warning: The programfile keyword is no longer supported"
+msgstr ""
+"경고: programfile 키워드가 더 이상 지원되지 않습니다."
+
+#: SPSSINC_APRIORI.R:151
+msgid "-- Summary of Transactions Data --"
+msgstr ""
+"-- 트랜잭션 데이터 요약 --"
+
+#: SPSSINC_APRIORI.R:162
+msgid "Item Proportions"
+msgstr ""
+"항목 비율"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Support"
+msgstr ""
+"지지도"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Confidence"
+msgstr ""
+"신뢰"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Lift"
+msgstr ""
+"리프트"
+
+#: SPSSINC_APRIORI.R:177
+msgid "Quality of Entire Set of %s Rules"
+msgstr ""
+"%s 규칙의 전체 세트 품질"
+
+#: SPSSINC_APRIORI.R:181
+msgid "Quality of Selected Subset of %s Rules Meeting Minimum Lift"
+msgstr ""
+"최소 리프트를 충족하는 %s 규칙의 선택된 서브세트 품질"
+
+#: SPSSINC_APRIORI.R:189
+msgid "Apriori Rules"
+msgstr ""
+"Apriori 규칙"
+
+#: SPSSINC_APRIORI.R:190
+msgid "a. Consequent: %s"
+msgstr ""
+"a. 결과: %s"
+
+
