@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Command Name="SPSSINC APRIORI" Language="R" xmlns="http://xml.spss.com/spss/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.spss.com/spss/extension http://xml.spss.com/spss/extension/extension-1.0.xsd">
+	<Subcommand Name="" Occurrence="Optional" IsArbitrary="True"/>
+	<Subcommand Name="CRITERIA" Occurrence="Optional">
+		<Parameter Name="SUPPORT" ParameterType="Number"/>
+		<Parameter Name="CONFIDENCE" ParameterType="Number"/>
+		<Parameter Name="MINLIFT" ParameterType="Number"/>
+		<!-- <Parameter Name="CONSEQUENT" ParameterType="QuotedString"/>-->
+	</Subcommand>
+	<Subcommand Name="FORMAT" Occurrence="Optional">
+		<Parameter Name="CONFIDENCE" ParameterType="Keyword">
+			<EnumValue Name="A"/>
+			<EnumValue Name="D"/>
+		</Parameter>
+		<Parameter Name="LIFT" ParameterType="Keyword">
+			<EnumValue Name="A"/>
+			<EnumValue Name="D"/>
+		</Parameter>
+		<Parameter Name="SUPPORT" ParameterType="Keyword">
+			<EnumValue Name="A"/>
+			<EnumValue Name="D"/>
+		</Parameter>
+		<Parameter Name="MAXRULES" ParameterType="Number"/>
+	</Subcommand>
+	<Subcommand Name="OPTIONS" Occurrence="Optional">
+		<Parameter Name="ITEMPLOT" ParameterType="Keyword"/>
+		<Parameter Name="SUMMARY" ParameterType="Keyword"/>
+	</Subcommand>
+	<Subcommand Name="SAVE" Occurrence="Optional">
+		<Parameter Name="PROGRAMFILE" ParameterType="OutputFile"/>
+	</Subcommand>
+	<Subcommand Name="HELP" Occurrence="Optional"/>
+</Command>
