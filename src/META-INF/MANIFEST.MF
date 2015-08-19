@@ -1,0 +1,18 @@
+Name: SPSSINC APRIORI
+Dialog-Specs: SPSSINC_APRIORI.spd
+Command-Specs: SPSSINC_APRIORI.xml
+Code-Files: SPSSINC_APRIORI.R
+Misc-Files: markdown.html,extsyntax.css,IBMdialogicon.png
+Summary: Discover frequent itemsets, association rules using the Aprio
+ ri algorithm
+Description: The Apriori algorithm employs level-wise search to discov
+ er frequent itemsets and association rules within a dataset.  This pr
+ ocedure has been rewritten so as to depend only on the R plugin
+Author: Jason Burke/Australia/IBM
+Version: 2.1.7
+Product-Version: 18
+Date: 9 Nov 2010
+Categories: Apriori, association
+Plugins: R
+R-Packages: arules
+Translation-Catalogues: lang
