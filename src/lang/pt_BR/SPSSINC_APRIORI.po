@@ -1,0 +1,84 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SPSSINC_APRIORI.R:115
+msgid "Consequent keyword not currently implemented"
+msgstr ""
+"Palavra-chave subsequente não implementada atualmente"
+
+#: SPSSINC_APRIORI.R:141
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"O pacote R %s é necessário, mas não pôde ser carregado."
+
+#: SPSSINC_APRIORI.R:145
+msgid "Warning: The programfile keyword is no longer supported"
+msgstr ""
+"Aviso: A palavra-chave programfile não é mais suportada"
+
+#: SPSSINC_APRIORI.R:151
+msgid "-- Summary of Transactions Data --"
+msgstr ""
+"-- Sumarização de dados de transação --"
+
+#: SPSSINC_APRIORI.R:162
+msgid "Item Proportions"
+msgstr ""
+"Proporções do item"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Support"
+msgstr ""
+"Suporte"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Confidence"
+msgstr ""
+"Confiança"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Lift"
+msgstr ""
+"Elevação"
+
+#: SPSSINC_APRIORI.R:177
+msgid "Quality of Entire Set of %s Rules"
+msgstr ""
+"Qualidade de todo o conjunto de %s regras"
+
+#: SPSSINC_APRIORI.R:181
+msgid "Quality of Selected Subset of %s Rules Meeting Minimum Lift"
+msgstr ""
+"Qualidade do subconjunto selecionado de %s regras que atende a elevação mínima"
+
+#: SPSSINC_APRIORI.R:189
+msgid "Apriori Rules"
+msgstr ""
+"Regras Apriori"
+
+#: SPSSINC_APRIORI.R:190
+msgid "a. Consequent: %s"
+msgstr ""
+"a. Consequente: %s"
+
+
