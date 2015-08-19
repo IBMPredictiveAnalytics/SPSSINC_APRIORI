@@ -1,0 +1,84 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SPSSINC_APRIORI.R:115
+msgid "Consequent keyword not currently implemented"
+msgstr ""
+"Le mot clé consécutif n'est pas actuellement implémenté."
+
+#: SPSSINC_APRIORI.R:141
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Le pack R %s est requis mais n'a pas pu être chargé."
+
+#: SPSSINC_APRIORI.R:145
+msgid "Warning: The programfile keyword is no longer supported"
+msgstr ""
+"Avertissement : Le mot clé programfile n'est plus pris en charge."
+
+#: SPSSINC_APRIORI.R:151
+msgid "-- Summary of Transactions Data --"
+msgstr ""
+"-- Récapitulatif des données de transaction --"
+
+#: SPSSINC_APRIORI.R:162
+msgid "Item Proportions"
+msgstr ""
+"Proportions d'élément"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Support"
+msgstr ""
+"Support"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Confidence"
+msgstr ""
+"Confiance"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Lift"
+msgstr ""
+"Lift"
+
+#: SPSSINC_APRIORI.R:177
+msgid "Quality of Entire Set of %s Rules"
+msgstr ""
+"Qualité de l'ensemble de règles de %s règles"
+
+#: SPSSINC_APRIORI.R:181
+msgid "Quality of Selected Subset of %s Rules Meeting Minimum Lift"
+msgstr ""
+"Qualité du sous-ensemble sélectionné de %s règles répondant au lift minimum"
+
+#: SPSSINC_APRIORI.R:189
+msgid "Apriori Rules"
+msgstr ""
+"Règles Apriori"
+
+#: SPSSINC_APRIORI.R:190
+msgid "a. Consequent: %s"
+msgstr ""
+"a. Conséquence : %s"
+
+
