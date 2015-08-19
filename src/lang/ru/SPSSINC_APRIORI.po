@@ -1,0 +1,84 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SPSSINC_APRIORI.R:115
+msgid "Consequent keyword not currently implemented"
+msgstr ""
+"Следующее ключевое слово на данный момент не реализовано"
+
+#: SPSSINC_APRIORI.R:141
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Необходим пакет R %s, но его не удалось загрузить."
+
+#: SPSSINC_APRIORI.R:145
+msgid "Warning: The programfile keyword is no longer supported"
+msgstr ""
+"Предупреждение: Ключевое слово programfile более не поддерживается"
+
+#: SPSSINC_APRIORI.R:151
+msgid "-- Summary of Transactions Data --"
+msgstr ""
+"-- Сводка данных транзакций --"
+
+#: SPSSINC_APRIORI.R:162
+msgid "Item Proportions"
+msgstr ""
+"Пропорции элемента"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Support"
+msgstr ""
+"Поддержка"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Confidence"
+msgstr ""
+"Показатель доверия"
+
+#: SPSSINC_APRIORI.R:175
+#: SPSSINC_APRIORI.R:179
+msgid "Lift"
+msgstr ""
+"Рост"
+
+#: SPSSINC_APRIORI.R:177
+msgid "Quality of Entire Set of %s Rules"
+msgstr ""
+"Качество всего набора %s правил"
+
+#: SPSSINC_APRIORI.R:181
+msgid "Quality of Selected Subset of %s Rules Meeting Minimum Lift"
+msgstr ""
+"Качество выбранного поднабора %s правил, соответствующих минимальному подъему"
+
+#: SPSSINC_APRIORI.R:189
+msgid "Apriori Rules"
+msgstr ""
+"Правила априори"
+
+#: SPSSINC_APRIORI.R:190
+msgid "a. Consequent: %s"
+msgstr ""
+"a. Последующий: %s"
+
+
