@@ -1,11 +1,11 @@
 # SPSSINC APRIORI
-## Discover frequent itemsets, association rules using the Aprio
- The Apriori algorithm employs level-wise search to discov
+## Discover frequent itemsets, association rules using the Apriori algorithm
+ The Apriori algorithm employs level-wise search to discover frequent itemsets and association rules within a dataset.  This procedure has been rewritten so as to depend only on the R plugin.
 
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later
+- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for R.
 
 ---
 Installation intructions
