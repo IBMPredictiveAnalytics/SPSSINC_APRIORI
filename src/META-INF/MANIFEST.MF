@@ -1,4 +1,5 @@
 Name: SPSSINC APRIORI
+Display-Name: Apriori
 Dialog-Specs: SPSSINC_APRIORI.spd
 Command-Specs: SPSSINC_APRIORI.xml
 Code-Files: SPSSINC_APRIORI.R
